@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_distance">กรอกระยะทาง(เมตร)</string>
+    <string name="text_time">กรอกเวลา(วินาที)</string>
+    <string name="text_Average">ระยะทางเฉลี่ย(กม./ชม.)</string>
+    <string name="text_clear">ล้าง</string>
+    <string name="text_calculator">คำณวน</string>
+    <string name="Distance_and_time_are_required">กรุณากรอกระยะทางและเวลา</string>
+    <string name="TimeZero">เวลาต้องมากกว่าศูนย์</string>
+    <string name="OverLimit">ความเร็วเกินกำหนด</string>
+
+</resources>
